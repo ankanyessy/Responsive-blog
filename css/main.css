@@ -1,0 +1,101 @@
+/* Inserta tu codigo aqui */
+
+/* Responsive */
+
+@media screen and (max-width : 100%) {
+
+}
+
+@media screen and (max-width: 600px) {
+	.container {
+		width: 100%;
+		padding-left: 14px; 
+		padding-right: 14px;
+		margin: 0px auto;
+		position: relative;
+		}
+}
+
+.row-fluid {
+		max-width: 80%;
+}
+
+header {
+	background-color: #000000;
+}
+
+.logo {
+	margin-left: 50%;
+}
+.logo img {
+	width: 100%;
+	height: 100px;
+	
+}
+
+nav ul li {
+	margin-left: 20px;
+	display: inline-table;
+	margin-top: 30px;
+}
+
+nav .active {
+	margin-left: 150px;
+}
+
+nav li a {
+	text-decoration: none;
+	font-size: 13px;
+	font-family: Helvetica;
+	color: white;
+}
+
+.ImagenFondo img {
+	margin-left: 15%;
+	margin-right: 60%;
+	width: 100%;
+	height: 50%;
+}
+
+.ImagenFondo h1 {
+	text-align: center;
+	padding: -20% -100% -20% -100%;
+}
+
+.ImagenFondo p {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
